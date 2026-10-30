@@ -1,5 +1,4 @@
 # VT-Morse-Trainer
-# VT Morse Trainer
 
 **An Android application for learning and practicing Morse code reception.**
 
